@@ -1,0 +1,40 @@
+* {
+    font-family: "Playfair Display", sans-serif;
+}
+body {
+    background-color: #DCF2F1;
+}
+h1 {
+    margin-left: 330px;
+}
+div {
+    height: 500px;
+    width: 50%;
+    background-color:antiquewhite;
+    border:solid black;
+    text-align: center;
+    margin-left: 250px;
+    padding: 10px;
+}
+.img-LesPaul {
+    width: 50%;
+    border: solid black;
+    height: 200px; 
+    width: 200px;
+}
+.img-SG {
+    width: 50%;
+    border: solid black;
+    height: 200px; 
+    width: 200px;
+}
+.img-Explorer {
+    width: 50%;
+    border: solid black;
+    height: 200px; 
+    width: 200px;
+}
+.info {
+    margin-left: 250px;
+}
+
